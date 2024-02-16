@@ -9,7 +9,8 @@ Welcome to my GitHub page! As a Computer Science enthusiast with a Master's from
 ## 📬 Get in Touch
 
 - **Location:** Tempe, AZ
-- **Email:** [sindulka@asu.edu](mailto:sindulka@asu.edu)
+- **University Email:** [sindulka@asu.edu](mailto:sindulka@asu.edu)
+- **Personal Email:** [shubham.applications1438@gmail.com](mailto:shubham.applications1438@gmail.com)
 - **LinkedIn:** [shubhamindulkar1438](https://linkedin.com/in/shubhamindulkar1438/)
 - **LeetCode:** [imshub143](https://leetcode.com/imshub143/)
 
@@ -58,23 +59,31 @@ Relevant Coursework: Data Structure and Algorithms, Object Oriented Programming.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### Application Development Intern, University of Phoenix
-*May 2023 - Present*  
-Implementing micro-services with Java Spring Boot and AWS EKS.
+### Application Development Intern | University of Phoenix, Phoenix, Arizona, USA
+*May 2023 - Present*
+- Spearheading the development of microservices-based Java Spring Boot applications, optimizing for seamless deployment on AWS EKS.
+- Successfully migrated legacy Tomcat services to AWS, leveraging Kubernetes for autoscaling and optimizing memory and CPU utilization on AWS ECS, enhancing performance and scalability.
 
-### Frontend Developer, Arizona State University
-*Jan 2023 - May 2023*  
-Revamped the ASU website using React.js and Node.js.
+### Frontend Developer | Arizona State University, Tempe, Arizona, USA
+*January 2023 - May 2023*
+- Led the overhaul of the ASU website, transitioning from ColdFusion and WordPress to a modern, efficient React.js and Node.js framework, significantly improving site performance and user engagement.
+- Implemented responsive design principles to ensure an optimal viewing experience across various devices and browsers.
 
-### Senior Technical Services Specialist - Data Engineer 2, IBM
-*Nov 2021 - May 2022*  
-Worked with Python, Apache Spark, and Hive for data processing.
+### Senior Technical Services Specialist - Data Engineer 2 | IBM, Pune, India
+*November 2021 - May 2022*
+- Engineered robust Python, Apache Spark, and Apache Hive solutions to streamline the processing of users' prepaid/postpaid billing data, significantly enhancing operational efficiency.
+- Fostered strong client relationships by effectively translating business requirements into scalable data processing scripts and Hive databases, ensuring high satisfaction and retention rates.
 
-### Associate Software Engineer, ACCENTURE
-*Sep 2019 - Nov 2021*  
-Developed AWS ETL CI/CD pipelines and managed AWS resources.
+### Associate Software Engineer | ACCENTURE, Chennai, India
+*September 2019 - November 2021*
+- Developed and maintained a healthcare AWS ETL CI/CD pipeline for the seamless ingestion of FHIR data into an Elastic Search data warehouse, demonstrating proficiency in Python and Apache Spark.
+- Introduced strategic initiatives for dynamic resource allocation in AWS Glue Jobs, resulting in significant improvements in performance and cost-efficiency.
+
+### Software Intern | INDICUS SOFTWARE PVT. LTD., Pune, India
+*June 2018 - November 2018*
+- Designed and implemented a novel framework for collecting data from Android sensors and integrating with Computer Vision applications, utilizing Intel’s OpenVino toolkit, paving the way for advanced mobile sensing applications.
 
 ---
 
