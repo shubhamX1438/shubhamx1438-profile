@@ -1,6 +1,6 @@
 # Shubham Sudhakar Indulkar 👨‍💻
 
-![Shubham's Photo](URL_to_your_photo)
+![Shubham's Photo](images/IMG_8787.jpeg)
 
 Welcome to my GitHub page! As a Computer Science enthusiast with a Master's from Arizona State University, I specialize in crafting innovative solutions using Python, Java, and AWS. My passion lies in software development, data engineering, and exploring cloud technologies. Here, you'll find a showcase of my projects and a glimpse into my professional journey.
 
