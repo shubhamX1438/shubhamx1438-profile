@@ -27,6 +27,15 @@ The Blogging Platform is a robust web application built with Spring Boot and Thy
 ### [Autonomous Vehicle Collision Detection](https://github.com/shubhamX1438/Autonomous-Vehicle-Collision-Detection/tree/main)
 This project endeavors to create a safety-driven framework tailored for autonomous vehicles, concentrating on the real-time monitoring of vital passenger health metrics. With a specific focus on intoxication levels, respiratory rate, heart rate, BMI, and sleepiness, the project aims to develop an adaptive advisory control system. The primary challenge lies in crafting a responsive system capable of dynamically adjusting to these varied metrics. By integrating these health parameters into the autonomous vehicle’s control mechanisms, the goal is to guarantee a secure and comfortable travel experience, thereby enhancing safety in autonomous transportation.
 
+
+### [Real-Time-Event-Processing](https://github.com/shubhamX1438/Real-Time-Event-Processing)
+This is a real-time sales analytics application that uses:
+- **Kafka** (Zookeeper + Kafka broker) for event streaming,
+- A **Python Producer** that generates mock sales events,
+- A **Go Consumer** that reads events from Kafka and exposes them via HTTP,
+- A **React** (Material UI + Recharts) frontend that displays a real-time sales dashboard.
+
+
 ### [system-performance-debugger](https://github.com/shubhamX1438/system-performance-debugger)
 The System Performance Debugger is a project that monitors and displays key system performance metrics such as CPU usage, memory usage, disk I/O, and network statistics, all in real-time. This application leverages a Python backend built with Flask to collect system metrics using the psutil library, and a React frontend styled with Material UI for a modern and responsive user interface. The project mimics the functionality of Google Cloud's monitoring services by collecting system data and presenting it in a user-friendly dashboard. While the application does not directly interface with Google Cloud services, the core concept of monitoring and visualizing system performance is inspired by cloud-based monitoring tools, allowing for insights into system health akin to cloud-based services like Google Cloud Profiler.
 
