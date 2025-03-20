@@ -36,6 +36,9 @@ This is a real-time sales analytics application that uses:
 - A **React** (Material UI + Recharts) frontend that displays a real-time sales dashboard.
 
 
+### [Local BigTable](https://github.com/shubhamX1438/LocalBigtable)
+LocalBigtable is a local, in-memory simulation of Google Cloud Bigtable, built in C++. It provides basic functionalities such as inserting, updating, retrieving, and deleting cells and rows, as well as scanning the entire table. Additionally, the project supports persistence by saving to and loading from files and includes a simple text-based UI for user interaction.
+
 ### [system-performance-debugger](https://github.com/shubhamX1438/system-performance-debugger)
 The System Performance Debugger is a project that monitors and displays key system performance metrics such as CPU usage, memory usage, disk I/O, and network statistics, all in real-time. This application leverages a Python backend built with Flask to collect system metrics using the psutil library, and a React frontend styled with Material UI for a modern and responsive user interface. The project mimics the functionality of Google Cloud's monitoring services by collecting system data and presenting it in a user-friendly dashboard. While the application does not directly interface with Google Cloud services, the core concept of monitoring and visualizing system performance is inspired by cloud-based monitoring tools, allowing for insights into system health akin to cloud-based services like Google Cloud Profiler.
 
